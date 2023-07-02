@@ -30,7 +30,7 @@ Since 2022 I have been working as a QA Engineer at the National Cadastral Agency
 - Requirement testing  
 - Testing a desktop application  
 - Checklists and test cases creation   
-- Bug report
+- Creating bug reports
 
 ## Skills  
 - Postman, JMeter
